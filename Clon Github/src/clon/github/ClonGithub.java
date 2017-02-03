@@ -16,7 +16,7 @@ public class ClonGithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Este es mi primer coso de Github. Me gustan los churros");
+        System.out.println("Este es mi primer coso de Github.");
     }
     
 }
